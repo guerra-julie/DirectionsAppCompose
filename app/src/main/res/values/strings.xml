@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cartographie</string>
+    <string name="end">Arrivée :</string>
+    <string name="start">Départ :</string>
+    <string name="welcome_text">Bienvenue dans l\'application de recherche d\'itinéraire à pied.</string>
+    <string name="calculate">Lancer</string>
+</resources>
